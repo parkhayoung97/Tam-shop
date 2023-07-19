@@ -55,7 +55,7 @@
 
 ### ERD
 
-![3차](https://github.com/ann99934/Tam-shop/assets/110450765/1ce072ba-f2fe-4fd6-a2ba-23c042cc2780)
+![3차](https://github.com/ann99934/Tam-shop/assets/110450765/0b013045-3508-4df9-bb7f-f7bcd52b416e)
 
 <br>
 
@@ -67,19 +67,39 @@
 
 #### 유저
 - 회원가입
+  ![1_회원가입](https://github.com/ann99934/Tam-shop/assets/110450765/547fe9c8-3e9a-4aaa-a56d-6d4e8297c6d8)
+
 - 로그인
+  ![2_유저로그인](https://github.com/ann99934/Tam-shop/assets/110450765/741995f0-1ced-4008-bc30-a5a6ecc8823c)
+
 - 상품조회, 상품 상세조회
+  ![3_상품조회_상세조회](https://github.com/ann99934/Tam-shop/assets/110450765/bcca7554-2ad6-432c-af61-1d28778b7e30)
+
 - 장바구니 추가, 조회
+  ![4_장바구니-추가](https://github.com/ann99934/Tam-shop/assets/110450765/101bdd35-76ba-4ace-9869-bcb9ec948519)
+
 - 주문
+  ![5_주문하기](https://github.com/ann99934/Tam-shop/assets/110450765/aa6dfa4f-f731-4152-887d-a60b31ff2cfb)
+
 - 주문 목록/상세 확인/취소 처리
+  ![6_주문목록_상세_취소](https://github.com/ann99934/Tam-shop/assets/110450765/172692d9-ce30-43f8-ba4a-94cd825cc68f)
+
 - 회원 비밀번호 수정
+  
 - 회원 탈퇴
 
 #### 관리자
 - 로그인
+  ![9_관리자로그인](https://github.com/ann99934/Tam-shop/assets/110450765/1e299df8-2dda-44f2-820c-48950fb7c960)
+
 - 상품 등록/상품 목록 확인
+  ![10_상품등록](https://github.com/ann99934/Tam-shop/assets/110450765/e087d0be-c18c-4dcc-a908-4dff642f6a42)
+
 - 주문 조회/주문상태 변경/상태변경 확인
+  ![11_주문목록](https://github.com/ann99934/Tam-shop/assets/110450765/126f44a7-6db5-4aaa-9639-7d8c7234465d)
+
 - 유저 조회
+  ![12_유저목록](https://github.com/ann99934/Tam-shop/assets/110450765/63852f2d-faca-418a-aef8-da152614b306)
 
 </div>
 </details>
