@@ -85,8 +85,11 @@
   ![6_주문목록_상세_취소](https://github.com/ann99934/Tam-shop/assets/110450765/172692d9-ce30-43f8-ba4a-94cd825cc68f)
 
 - 회원 비밀번호 수정
-  
+  ![7_회원비번수정](https://github.com/ann99923/Tam-shop/assets/110450765/7b11e842-186b-4b9b-9c7d-c2de1fbe0b2e)
+
 - 회원 탈퇴
+  ![8_회원탈퇴](https://github.com/ann99923/Tam-shop/assets/110450765/a87eefb4-4618-4ceb-9bc9-5c28e5a4317b)
+
 
 #### 관리자
 - 로그인
