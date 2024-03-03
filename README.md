@@ -49,3 +49,9 @@
 
 <br>
 
+### ERD
+
+![3차](https://github.com/ann99934/Tam-shop/assets/110450765/0b013045-3508-4df9-bb7f-f7bcd52b416e)
+
+<br>
+
